@@ -1,8 +1,11 @@
+This GitHub project contains my lab report (in both PDF and LaTeX formats) as well as the code for my simulations (writting using Processing). 
+Part of the introduction to my lab has been recreated in Markdown below
+
 Simulating the Relationship Between Pressure and Other Variables in a 3D Environment
 ====================================================================================
 
-Luke Carlson\
-Trevor Day School\
+Luke Carlson
+Trevor Day School
 March 11, 2013
 
 Purpose
